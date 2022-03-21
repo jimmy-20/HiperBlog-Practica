@@ -28,3 +28,8 @@ body{
     font-weight: bold;
     box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
 }
+
+#cabecera #Logo{
+    width: 20px;
+    vertical-align: middle;
+}
